@@ -11,6 +11,13 @@
 - Sahani
 ***
 
+## Declaration and Initialization
+It's a good practice to **initialize** variables whenever you **declare** them.
+```
+int number = 0;
+```
+***
+
 ## Structures
 - Structures have a concept called ***padding*** which allocates the biggest memory of a structure to its char member. *Note : Refer online*.
 - 'struct' is not mandatory in c++ while declaring and initializing, but compulsory in c.
@@ -91,6 +98,10 @@ In pass by value, any changes made to *formal* parameter will not be reflected i
 - accessor -> getter function
 - mutator -> setter function.
 - destructor.
+***
+
+## Access modifier
+
 ***
 
 ## Data Structure
